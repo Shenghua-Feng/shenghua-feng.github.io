@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Research Assistant at the Institute of Software, Chinese Academy of Sciences (ISCAS), Beijing, China. Prior to joining ISCAS, I worked as a Assistant Researcher at Zhongguancun Laboratory. In 2023, I received the Ph.D. degree in computer science from ISCAS under the supervision of Prof. [Naijun Zhan](https://lcs.ios.ac.cn/~znj/). Check out my [CV](/files/CV_Shenghua_Feng.pdf) for more detailed information.
+I am now a Research Assistant at the Institute of Software, Chinese Academy of Sciences, Beijing, China. Prior to joining ISCAS, I worked as a Assistant Researcher at Zhongguancun Laboratory. In 2023, I received the Ph.D. degree in computer science from ISCAS under the supervision of Prof. [Naijun Zhan](https://lcs.ios.ac.cn/~znj/). Check out my [CV](/files/CV_Shenghua_Feng.pdf) for more detailed information.
 
 # Research Interests
 ------
