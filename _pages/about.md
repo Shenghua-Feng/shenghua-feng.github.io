@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Research Assistant at the Institute of Software, Chinese Academy of Sciences (ISCAS), Beijing, China. Prior to joining ISCAS, I worked as a Assistant Researcher at Zhongguancun Laboratory. In 2023, I received the Ph.D. degree in computer science from ISCAS under the supervision of Prof. [Naijun Zhan](https://lcs.ios.ac.cn/~znj/).
+I am now a Research Assistant at the Institute of Software, Chinese Academy of Sciences (ISCAS), Beijing, China. Prior to joining ISCAS, I worked as a Assistant Researcher at Zhongguancun Laboratory. In 2023, I received the Ph.D. degree in computer science from ISCAS under the supervision of Prof. [Naijun Zhan](https://lcs.ios.ac.cn/~znj/). Check out my [CV](/files/CV_Shenghua_Feng.pdf) for more detailed information.
 
 # Research Interests
 ------
-My primary research interests focus on the formal verification and synthesis of programs and hybrid discrete-continuous systems, aiming to enhance the reliability and effectiveness of software systems ---- particularly safety-critical cyber-physical systems in which physical processes and software components are deeply intertwined. The overarching goal is to advance the capabilities of formal verification techniques for complex systems and apply these developments effectively to real-world cyber-physical systems. My research topics include but are not limited to:
+My primary research interests focus on the formal verification and synthesis of programs and hybrid discrete-continuous systems, aiming to enhance the reliability and effectiveness of software systems --- particularly safety-critical cyber-physical systems in which physical processes and software components are deeply intertwined. The overarching goal is to advance the capabilities of formal verification techniques for complex systems and apply these developments effectively to real-world cyber-physical systems. My research topics include but are not limited to:
 - Verification and Synthesis of Cyber-Physical Systems
 - Probabilistic Systems
 - AI for Formal Methods, Safe Learning-Enabled Systems
