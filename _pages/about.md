@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: #"Shenghua Feng's homepage"
+title: "Welcome to my homepage!"
 author_profile: true
 redirect_from: 
   - /about/

@@ -308,6 +308,7 @@ timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:
+  - jekyll-seo-tag
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
