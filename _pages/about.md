@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now an associate researcher at the Institute of Software, Chinese Academy of Sciences, Beijing, China. Prior to joining ISCAS, I worked as a Assistant Researcher at Zhongguancun Laboratory. In 2023, I received the Ph.D. degree in computer science from ISCAS under the supervision of Prof. [Naijun Zhan](https://lcs.ios.ac.cn/~znj/). Check out my [CV](/files/CV_Shenghua_Feng.pdf) for more detailed information.
+I am now an Associate Researcher at the Institute of Software, Chinese Academy of Sciences, Beijing, China. Prior to joining ISCAS, I worked as an Assistant Researcher at Zhongguancun Laboratory. In 2023, I received the Ph.D. degree in computer science from ISCAS under the supervision of Prof. [Naijun Zhan](https://lcs.ios.ac.cn/~znj/). Check out my [CV](/files/CV_Shenghua_Feng.pdf) for more detailed information.
 
 # Research Interests
 ------
@@ -35,7 +35,7 @@ My primary research interests focus on the formal verification and synthesis of 
 
   - Bai Xue, Qiuye Wang, **Shenghua Feng**, Naijun Zhan (2021). [Over- and Underapproximating Reach Sets for Perturbed Delay Differential Equations](/files/IEEE_TAC.pdf). In IEEE TAC 2021.
 
-  - **Shenghua Feng**, Mingshuai Chen, Bai Xue, Sriram Sankaranarayanan, Naijun Zhan (2020). Unbounded-Time Safety Verification of Stochastic Differential Dynamic(/files/CAV2020.pdf). In CAV 2020.
+  - **Shenghua Feng**, Mingshuai Chen, Bai Xue, Sriram Sankaranarayanan, Naijun Zhan (2020). [Unbounded-Time Safety Verification of Stochastic Differential Dynamic](/files/CAV2020.pdf). In CAV 2020.
 
   - **Shenghua Feng**, Mingshuai Chen, Naijun Zhan, Martin Fränzle, and Bai Xue (2019). [Taming delays in dynamical systems: Unbounded verification of delay differential equations](/files/CAV2019.pdf). In CAV 2019.
   
