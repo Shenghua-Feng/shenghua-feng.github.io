@@ -23,7 +23,7 @@ My primary research interests focus on the formal verification and synthesis of 
 
   - Tengshun Yang\*, **Shenghua Feng**\*, Hongfei Fu, Naijun Zhan, Jingyu Ke, Shiyang Wu (2026). Piecewise Analysis of Probabilistic Programs via k-Induction. In POPL 2026.
 
-  - **Shenghua Feng**\*, Tengshun Yang\*, Mingshuai Chen, Naijun Zhan (2024). [A Unified Framework for Quantitative Analysis of Probabilistic Programs](/files/jpk-60.pdf). JPK’s Festschrift.
+  - **Shenghua Feng**\*, Tengshun Yang\*, Mingshuai Chen, Naijun Zhan (2024). [A Unified Framework for Quantitative Analysis of Probabilistic Programs](/files/jpk-60.pdf). In JPK’s Festschrift.
 
   - Han Su, **Shenghua Feng**✉, Sinong Zhan, and Naijun Zhan (2024). [Switching Controller Synthesis for Hybrid Systems Against STL Formulas](/files/FM2024.pdf). In FM 2024.
 
