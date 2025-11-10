@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Research Assistant at the Institute of Software, Chinese Academy of Sciences, Beijing, China. Prior to joining ISCAS, I worked as a Assistant Researcher at Zhongguancun Laboratory. In 2023, I received the Ph.D. degree in computer science from ISCAS under the supervision of Prof. [Naijun Zhan](https://lcs.ios.ac.cn/~znj/). Check out my [CV](/files/CV_Shenghua_Feng.pdf) for more detailed information.
+I am now an associate researcher at the Institute of Software, Chinese Academy of Sciences, Beijing, China. Prior to joining ISCAS, I worked as a Assistant Researcher at Zhongguancun Laboratory. In 2023, I received the Ph.D. degree in computer science from ISCAS under the supervision of Prof. [Naijun Zhan](https://lcs.ios.ac.cn/~znj/). Check out my [CV](/files/CV_Shenghua_Feng.pdf) for more detailed information.
 
 # Research Interests
 ------
@@ -19,28 +19,26 @@ My primary research interests focus on the formal verification and synthesis of 
 
 # Publications {#publications}
 ------
+  - Shenghua Feng, Jie An, Fanjiang Xu (2026). Runtime Safety and Reach-avoid Prediction of Stochastic Systems via Observation-aware Barrier Functions. In AAAI 2026.
 
-  **Book Chapter**
-  1. Zhiyang Li, Mingqi Yang, Shenghua Feng, Mingshuai Chen (2025). [Fixed-Point Reasoning for Stochastic Systems](/#publications). MF’s Festschrift. To apper.
+  - Tengshun Yang*, Shenghua Feng*, Hongfei Fu, Naijun Zhan, Jingyu Ke, Shiyang Wu (2026). Piecewise Analysis of Probabilistic Programs via k-Induction. In POPL 2026.
 
-  2. Shenghua Feng, Tengshun Yang, Mingshuai Chen, Naijun Zhan (2024). [A Unified Framework for Quantitative Analysis of Probabilistic Programs](/files/jpk-60.pdf). *JPK’s Festschrift*.
+  - Shenghua Feng*, Tengshun Yang*, Mingshuai Chen, Naijun Zhan (2024). [A Unified Framework for Quantitative Analysis of Probabilistic Programs](/files/jpk-60.pdf). JPK’s Festschrift.
 
-  **Conference Papers**
-  <ol start="3">
-  <li>Han Su, Shenghua Feng, Sinong Zhan, and Naijun Zhan (2024). <a href="/files/FM2024.pdf">Switching Controller Synthesis for Hybrid Systems Against STL Formulas</a>. In FM 2024. </li>
+  - Han Su, Shenghua Feng✉, Sinong Zhan, and Naijun Zhan (2024). [Switching Controller Synthesis for Hybrid Systems Against STL Formulas](/files/FM2024.pdf). In FM 2024.
 
-  <li>Hao Wu, Shenghua Feng, Ting Gan, Jie Wang, Bican Xia, Naijun Zhan (2024). <a href="/files/FM2024_2.pdf">On Completeness of SDP-Based Barrier Certificate Synthesis over Unbounded Domains</a>. In FM 2024. </li>
+  - Hao Wu, Shenghua Feng, Ting Gan, Jie Wang, Bican Xia, Naijun Zhan (2024).[On Completeness of SDP-Based Barrier Certificate Synthesis over Unbounded Domains](/files/FM2024_2.pdf). In FM 2024.
 
-  <li>Shenghua Feng, Mingshuai Chen, Han Su, Benjamin Lucien Kaminski, Joost-Pieter Katoen, Naijun Zhan (2023). <a href="/files/OOPSLA.pdf">Lower Bounds for Possibly Divergent Probabilistic Programs</a>. Proc. ACM Program. Lang. Proc. ACM Program. Lang. (OOPSLA). </li>
+  - Shenghua Feng, Mingshuai Chen, Han Su, Benjamin Lucien Kaminski, Joost-Pieter Katoen, Naijun Zhan (2023). [Lower Bounds for Possibly Divergent Probabilistic Programs](/files/OOPSLA.pdf). Proc. ACM Program. Lang. Proc. ACM Program. Lang. (OOPSLA).
 
-  <li>Bai Xue, Qiuye Wang, Naijun Zhan, Martin Fränzle, Shenghua Feng （2022. <a href="/files/ACC.pdf">Differential Games Based on Invariant Sets Generation</a>. In American Control Conference (ACC). </li>
+  - Bai Xue, Qiuye Wang, Naijun Zhan, Martin Fränzle, Shenghua Feng (2022). [Differential Games Based on Invariant Sets Generation](/files/ACC.pdf). In American Control Conference (ACC).
 
-  <li>Bai Xue, Qiuye Wang, Shenghua Feng, Naijun Zhan (2021). <a href="/files/IEEE_TAC.pdf">Over- and Underapproximating Reach Sets for Perturbed Delay Differential Equations</a>. In IEEE TAC 2021. </li>
+  - Bai Xue, Qiuye Wang, Shenghua Feng, Naijun Zhan (2021). [Over- and Underapproximating Reach Sets for Perturbed Delay Differential Equations](/files/IEEE_TAC.pdf). In IEEE TAC 2021.
 
-  <li>Shenghua Feng, Mingshuai Chen, Bai Xue, Sriram Sankaranarayanan, Naijun Zhan (2020). <a href="/files/CAV2020.pdf">Unbounded-Time Safety Verification of Stochastic Differential Dynamic</a>. In CAV 2020. </li>
+  - Shenghua Feng, Mingshuai Chen, Bai Xue, Sriram Sankaranarayanan, Naijun Zhan (2020). Unbounded-Time Safety Verification of Stochastic Differential Dynamic(/files/CAV2020.pdf). In CAV 2020.
 
-  <li>Shenghua Feng, Mingshuai Chen, Naijun Zhan, Martin Fränzle, and Bai Xue (2020). <a href="/files/CAV2019.pdf">Taming delays in dynamical systems: Unbounded verification of delay differential equations </a>. In CAV 2019. </li>
-  </ol>
+  - Shenghua Feng, Mingshuai Chen, Naijun Zhan, Martin Fränzle, and Bai Xue (2020). [Taming delays in dynamical systems: Unbounded verification of delay differential equations](/files/CAV2019.pdf). In CAV 2019.
+  
 
 
 # Honors and Awards {#honors}
