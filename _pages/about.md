@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am now an Associate Researcher at the Institute of Software, Chinese Academy of Sciences, Beijing, China. Prior to joining ISCAS, I worked as an Assistant Researcher at Zhongguancun Laboratory. In 2023, I received the Ph.D. degree in computer science from ISCAS under the supervision of Prof. [Naijun Zhan](https://lcs.ios.ac.cn/~znj/). Check out my [CV](/files/CV_Shenghua_Feng.pdf) for more detailed information.
+I am now an Associate Researcher at the Institute of Software, Chinese Academy of Sciences, Beijing, China. Prior to joining ISCAS, I worked as an Assistant Researcher at Zhongguancun Laboratory. In 2023, I received the Ph.D. degree in computer science from ISCAS under the supervision of Prof. [Naijun Zhan](https://lcs.ios.ac.cn/~znj/). 
+
+<!-- Check out my [CV](/files/CV_Shenghua_Feng.pdf) for more detailed information. -->
 
 # Research Interests
 ------
@@ -19,6 +21,10 @@ My primary research interests focus on the formal verification and synthesis of 
 
 # Publications {#publications}
 ------
+  - **Shenghua Feng**, Jie An, Naijun Zhan, Fanjiang Xu (2026). Exact Moment Estimation of Stochastic Differential Dynamics. In FM 2026.
+
+  - Tianqi Zhao, Qinxiang Cao, **Shenghua Feng**, Minghui Zhou, Naijun Zhan, Yongzhi Cao, Junfeng Zhao, Haiyan Zhao, Hao Wang, Zhenjiang Hu. Formal Verification of Functional Correctness for the OpenHarmony LiteOS-M Kernel. In FM 2026.
+
   - **Shenghua Feng**, Jie An, Fanjiang Xu (2026). Runtime Safety and Reach-avoid Prediction of Stochastic Systems via Observation-aware Barrier Functions. In AAAI 2026.
 
   - Tengshun Yang\*, **Shenghua Feng**\*, Hongfei Fu, Naijun Zhan, Jingyu Ke, Shiyang Wu (2026). Piecewise Analysis of Probabilistic Programs via k-Induction. In POPL 2026.
