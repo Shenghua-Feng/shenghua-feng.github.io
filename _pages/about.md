@@ -25,7 +25,7 @@ My primary research interests focus on the formal verification and synthesis of 
     
   - **Shenghua Feng**, Jie An, Naijun Zhan, Fanjiang Xu (2026). Exact Moment Estimation of Stochastic Differential Dynamics. In FM 2026.
 
-  - Tianqi Zhao, Qinxiang Cao, **Shenghua Feng**, Minghui Zhou, Naijun Zhan, Yongzhi Cao, Junfeng Zhao, Haiyan Zhao, Hao Wang, Zhenjiang Hu. Formal Verification of Functional Correctness for the OpenHarmony LiteOS-M Kernel. In FM 2026.
+  - Tianqi Zhao, Qinxiang Cao, **Shenghua Feng**, Minghui Zhou, Naijun Zhan, Yongzhi Cao, Junfeng Zhao, Haiyan Zhao, Hao Wang, Zhenjiang Hu (2026). Formal Verification of Functional Correctness for the OpenHarmony LiteOS-M Kernel. In FM 2026.
 
   - **Shenghua Feng**, Jie An, Fanjiang Xu (2026). Runtime Safety and Reach-avoid Prediction of Stochastic Systems via Observation-aware Barrier Functions. In AAAI 2026.
 
