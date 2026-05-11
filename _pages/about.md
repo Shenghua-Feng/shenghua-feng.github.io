@@ -21,6 +21,8 @@ My primary research interests focus on the formal verification and synthesis of 
 
 # Publications {#publications}
 ------
+  - Zhiyang Li, Mingqi Yang, **Shenghua Feng**✉, Mingshuai Chen✉ (2026). Fixed-Point Reasoning for Stochastic Systems. In Martin Fränzle’s Festschrift.
+    
   - **Shenghua Feng**, Jie An, Naijun Zhan, Fanjiang Xu (2026). Exact Moment Estimation of Stochastic Differential Dynamics. In FM 2026.
 
   - Tianqi Zhao, Qinxiang Cao, **Shenghua Feng**, Minghui Zhou, Naijun Zhan, Yongzhi Cao, Junfeng Zhao, Haiyan Zhao, Hao Wang, Zhenjiang Hu. Formal Verification of Functional Correctness for the OpenHarmony LiteOS-M Kernel. In FM 2026.
