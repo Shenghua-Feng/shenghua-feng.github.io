@@ -21,6 +21,8 @@ My primary research interests focus on the formal verification and synthesis of 
 
 # Publications {#publications}
 ------
+  - Fanpeng Yang, Xing Li, Shuling Wang, Jie An✉, Zeyu Sun✉, **Shenghua Feng**✉, Wenhan Wang, Weiyi Wang, Naijun Zhan, Fanjiang Xu (2026). How Powerful are LLMs in Generating Program Specifications? In ICML 2026.
+
   - Zhiyang Li, Mingqi Yang, **Shenghua Feng**✉, Mingshuai Chen✉ (2026). Fixed-Point Reasoning for Stochastic Systems. In Martin Fränzle’s Festschrift.
     
   - **Shenghua Feng**, Jie An, Naijun Zhan, Fanjiang Xu (2026). Exact Moment Estimation of Stochastic Differential Dynamics. In FM 2026.
